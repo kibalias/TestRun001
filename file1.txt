@@ -1,1 +1,5 @@
 Initial Commit
+
+This is to add new blocks of messages in this text file. 
+
+Track deletions. 
